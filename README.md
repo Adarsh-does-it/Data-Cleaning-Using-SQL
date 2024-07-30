@@ -1,1 +1,1 @@
-Data Cleaning and Exploratory projects in MySQL 
+Data Cleaning and Exploratory projects in MySQL on WorldWide Layoffs Data
